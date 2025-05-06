@@ -1,0 +1,34 @@
+[1.115s] Invoking command in '/home/robofei/ros2_ws/src/object_detection': PYTHONPATH=/home/robofei/ros2_ws/src/object_detection/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robofei/ros2_ws/src/object_detection/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/object_detection build --build-base /home/robofei/ros2_ws/src/object_detection/build/object_detection/build install --record /home/robofei/ros2_ws/src/object_detection/build/object_detection/install.log --single-version-externally-managed install_data
+[1.457s] running egg_info
+[1.458s] creating build/object_detection/object_detection.egg-info
+[1.473s] writing build/object_detection/object_detection.egg-info/PKG-INFO
+[1.473s] writing dependency_links to build/object_detection/object_detection.egg-info/dependency_links.txt
+[1.474s] writing entry points to build/object_detection/object_detection.egg-info/entry_points.txt
+[1.475s] writing requirements to build/object_detection/object_detection.egg-info/requires.txt
+[1.476s] writing top-level names to build/object_detection/object_detection.egg-info/top_level.txt
+[1.477s] writing manifest file 'build/object_detection/object_detection.egg-info/SOURCES.txt'
+[1.517s] reading manifest file 'build/object_detection/object_detection.egg-info/SOURCES.txt'
+[1.518s] writing manifest file 'build/object_detection/object_detection.egg-info/SOURCES.txt'
+[1.518s] running build
+[1.518s] running build_py
+[1.518s] creating /home/robofei/ros2_ws/src/object_detection/build/object_detection/build
+[1.518s] creating /home/robofei/ros2_ws/src/object_detection/build/object_detection/build/lib
+[1.519s] creating /home/robofei/ros2_ws/src/object_detection/build/object_detection/build/lib/object_detection
+[1.519s] copying object_detection/object_detection_node.py -> /home/robofei/ros2_ws/src/object_detection/build/object_detection/build/lib/object_detection
+[1.519s] copying object_detection/__init__.py -> /home/robofei/ros2_ws/src/object_detection/build/object_detection/build/lib/object_detection
+[1.519s] running install
+[1.527s] running install_lib
+[1.547s] creating /home/robofei/ros2_ws/src/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection
+[1.548s] copying /home/robofei/ros2_ws/src/object_detection/build/object_detection/build/lib/object_detection/object_detection_node.py -> /home/robofei/ros2_ws/src/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection
+[1.548s] copying /home/robofei/ros2_ws/src/object_detection/build/object_detection/build/lib/object_detection/__init__.py -> /home/robofei/ros2_ws/src/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection
+[1.548s] byte-compiling /home/robofei/ros2_ws/src/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection/object_detection_node.py to object_detection_node.cpython-310.pyc
+[1.549s] byte-compiling /home/robofei/ros2_ws/src/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection/__init__.py to __init__.cpython-310.pyc
+[1.550s] running install_data
+[1.550s] creating /home/robofei/ros2_ws/src/object_detection/install/object_detection/share/ament_index
+[1.550s] creating /home/robofei/ros2_ws/src/object_detection/install/object_detection/share/ament_index/resource_index
+[1.550s] creating /home/robofei/ros2_ws/src/object_detection/install/object_detection/share/ament_index/resource_index/packages
+[1.550s] copying resource/object_detection -> /home/robofei/ros2_ws/src/object_detection/install/object_detection/share/ament_index/resource_index/packages
+[1.550s] copying package.xml -> /home/robofei/ros2_ws/src/object_detection/install/object_detection/share/object_detection
+[1.550s] creating /home/robofei/ros2_ws/src/object_detection/install/object_detection/share/object_detection/launch
+[1.551s] error: can't copy 'dual_lidar_launch.py': doesn't exist or not a regular file
+[1.588s] Invoked command in '/home/robofei/ros2_ws/src/object_detection' returned '1': PYTHONPATH=/home/robofei/ros2_ws/src/object_detection/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robofei/ros2_ws/src/object_detection/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/object_detection build --build-base /home/robofei/ros2_ws/src/object_detection/build/object_detection/build install --record /home/robofei/ros2_ws/src/object_detection/build/object_detection/install.log --single-version-externally-managed install_data

@@ -1,0 +1,4 @@
+setuptools
+rclpy
+sensor_msgs
+rplidar

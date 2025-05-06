@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: object_detection
+Version: 0.0.1
+Summary: Pacote para detecção de objetos redondos a partir dos dados do RPLidar
+Maintainer: Seu Nome
+Maintainer-email: seuemail@example.com
+License: MIT
+Requires-Dist: setuptools
+Requires-Dist: rclpy
+Requires-Dist: sensor_msgs
+Requires-Dist: rplidar
